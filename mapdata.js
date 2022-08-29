@@ -719,7 +719,7 @@ var simplemaps_worldmap_mapdata={
       lng: "138.2529",
       name: "Japonija",
       url: "https://halijas420.wixsite.com/my-site/post/____a-1",
-      description: "Kelionė į Japoniją atskleis, kad tai viena labiausiai pazengusiu technologiškai visuomenių pasaulyje. Paskauskite kad skaityti toliau.",
+      description: "Kelionė į Japoniją atskleis, kad tai viena labiausiai pazengusiu technologiškai visuomenių pasaulyje. Paspauskite, kad skaitytumėte toliau.",
       color: "red",
       opacity: "1",
       size: "12"
@@ -729,7 +729,7 @@ var simplemaps_worldmap_mapdata={
       lng: "103.8198",
       name: "Singapūras",
       color: "red",
-      description: "Singapūras yra savivaldė miesto valstybė, esanti Pietryčių Azijoje. Singapūras vienintelė šalys pasaulyje kuri yra miestas ir valstybė...   Paskauskite kad skaityti toliau.",
+      description: "Singapūras yra savivaldė miesto valstybė, esanti Pietryčių Azijoje. Singapūras vienintelė šalys pasaulyje kuri yra miestas ir valstybė...  Paspauskite, kad skaitytumėte toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/meksika",
       opacity: "1",
       size: "12"
@@ -740,7 +740,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       name: "Rumunija",
       color: "red",
-      description: "Rumunija yra giliai dvasinga šalis ir pasaulietinė valstybė, neturinti valstybinės religijos. Paskauskite kad skaityti toliau.",
+      description: "Rumunija yra giliai dvasinga šalis ir pasaulietinė valstybė, neturinti valstybinės religijos. Paspauskite, kad skaitytumėte toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/ekstradicijos",
       size: "12"
     },
@@ -749,7 +749,7 @@ var simplemaps_worldmap_mapdata={
       lng: "178.0650",
       name: "Fidži",
       color: "red",
-      description: "Fidžis – vieta, kuri atrodo taip kaip rojus, kad vargu ar patikėtum, kad tai tikra. Paskauskite kad skaityti toliau.",
+      description: "Fidžis – vieta, kuri atrodo taip kaip rojus, kad vargu ar patikėtum, kad tai tikra. Paspauskite, kad skaitytumėte toliau.",
       size: "12",
       url: "https://halijas420.wixsite.com/my-site/post/____a",
       opacity: "1"
@@ -761,7 +761,7 @@ var simplemaps_worldmap_mapdata={
       name: "Pietų Afrika",
       color: "red",
       opacity: "1",
-      description: "Pietų Afrika, giliai Afrikos žemyno papėdėje. Ši spalvinga tauta yra duoklė didžiuliam gamtos grožiui ir plačiai kultūrų įvairovei. Paskauskite kad skaityti toliau.",
+      description: "Pietų Afrika, giliai Afrikos žemyno papėdėje. Ši spalvinga tauta yra duoklė didžiuliam gamtos grožiui ir plačiai kultūrų įvairovei. Paspauskite, kad skaitytumėte toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/how-to-navigate-the-full-color-palette"
     },
     "5": {
@@ -770,7 +770,7 @@ var simplemaps_worldmap_mapdata={
       size: "12",
       name: "Danija",
       color: "red",
-      description: "Tai nėra ta vieta, kurią galima apsilankyti tik vieną kartą, nes tai įvairi šalis, kurioje yra daugybė lankytinų vietų.\nPaskauskite kad skaityti toliau.",
+      description: "Tai nėra ta vieta, kurią galima apsilankyti tik vieną kartą, nes tai įvairi šalis, kurioje yra daugybė lankytinų vietų. Paspauskite, kad skaitytumėte toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/perfect-colors-for-the-summer-season",
       opacity: "1"
     },
@@ -779,7 +779,7 @@ var simplemaps_worldmap_mapdata={
       lng: "-5.0926",
       name: "Marokas",
       color: "red",
-      description: "Marokas turi įvairią kultūrinę įtaką. Nuo arabų ir berberų iki daugybės įvairių sluoksnių... Paskauskite kad skaityti toliau.",
+      description: "Marokas turi įvairią kultūrinę įtaką. Nuo arabų ir berberų iki daugybės įvairių sluoksnių... Paspauskite, kad skaitytumėte toliau.",
       size: "12",
       url: "https://halijas420.wixsite.com/my-site/post/diy-painting-accessories",
       opacity: "1"
@@ -790,7 +790,7 @@ var simplemaps_worldmap_mapdata={
       name: "Islandija",
       size: "12",
       color: "red",
-      description: "Nedaug kitų pasaulio šalių gali pasigirti stulbinančiu grožiu, kaip Islandijoje, jau nekalbant apie seną ir įvairią kultūrą, tokią kaip Islandija. Paskauskite kad skaityti toliau.",
+      description: "Nedaug kitų pasaulio šalių gali pasigirti stulbinančiu grožiu, kaip Islandijoje, jau nekalbant apie seną ir įvairią kultūrą, tokią kaip Islandija. Paspauskite, kad skaitytumėte toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/islandija",
       opacity: "1"
     },
@@ -799,7 +799,7 @@ var simplemaps_worldmap_mapdata={
       lng: "55",
       name: "Kataras",
       color: "red",
-      description: "Istorija, viešbučiai ir svetingumas yra tarsi... Paskauskite kad skaityti toliau.",
+      description: "Istorija, viešbučiai ir svetingumas yra tarsi... Paspauskite, kad skaitytumėte toliau.",
       size: "12",
       opacity: "1",
       url: "https://halijas420.wixsite.com/my-site/post/kataras"
