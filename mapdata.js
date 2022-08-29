@@ -719,7 +719,7 @@ var simplemaps_worldmap_mapdata={
       lng: "138.2529",
       name: "Japonija",
       url: "https://halijas420.wixsite.com/my-site/post/____a-1",
-      description: "Paskauskite kad skaityti toliau",
+      description: "Kelionė į Japoniją atskleis, kad tai viena labiausiai pazengusiu technologiškai visuomenių pasaulyje. Paskauskite kad skaityti toliau.",
       color: "red",
       opacity: "1",
       size: "12"
@@ -729,18 +729,18 @@ var simplemaps_worldmap_mapdata={
       lng: "103.8198",
       name: "Singapūras",
       color: "red",
-      description: "Singapūras yra savivaldė miesto valstybė, esanti Pietryčių Azijoje. Singapūras vienintelė šalys pasaulyje kuri yra miestas ir valstybė...   Paskauskite kad skaityti toliau",
+      description: "Singapūras yra savivaldė miesto valstybė, esanti Pietryčių Azijoje. Singapūras vienintelė šalys pasaulyje kuri yra miestas ir valstybė...   Paskauskite kad skaityti toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/meksika",
       opacity: "1",
       size: "12"
     },
     "2": {
-      lat: "45.9432",
+      lat: "44.9432",
       lng: "24.9668",
       opacity: "1",
       name: "Rumunija",
       color: "red",
-      description: "Rumunija yra giliai dvasinga šalis ir pasaulietinė valstybė, neturinti valstybinės religijos. Paskauskite kad skaityti toliau",
+      description: "Rumunija yra giliai dvasinga šalis ir pasaulietinė valstybė, neturinti valstybinės religijos. Paskauskite kad skaityti toliau.",
       url: "https://halijas420.wixsite.com/my-site/post/ekstradicijos",
       size: "12"
     },
@@ -749,9 +749,60 @@ var simplemaps_worldmap_mapdata={
       lng: "178.0650",
       name: "Fidži",
       color: "red",
-      description: "Fidžis – vieta, kuri atrodo taip kaip rojus, kad vargu ar patikėtum, kad tai tikra. Paskauskite kad skaityti toliau",
-      size: "11",
-      url: "https://halijas420.wixsite.com/my-site/post/____a"
+      description: "Fidžis – vieta, kuri atrodo taip kaip rojus, kad vargu ar patikėtum, kad tai tikra. Paskauskite kad skaityti toliau.",
+      size: "12",
+      url: "https://halijas420.wixsite.com/my-site/post/____a",
+      opacity: "1"
+    },
+    "4": {
+      lat: "-30.5595",
+      lng: "23.9375",
+      size: "12",
+      name: "Pietų Afrika",
+      color: "red",
+      opacity: "1",
+      description: "Pietų Afrika, giliai Afrikos žemyno papėdėje. Ši spalvinga tauta yra duoklė didžiuliam gamtos grožiui ir plačiai kultūrų įvairovei. Paskauskite kad skaityti toliau.",
+      url: "https://halijas420.wixsite.com/my-site/post/how-to-navigate-the-full-color-palette"
+    },
+    "5": {
+      lat: "56.2639",
+      lng: "9.5018",
+      size: "12",
+      name: "Danija",
+      color: "red",
+      description: "Tai nėra ta vieta, kurią galima apsilankyti tik vieną kartą, nes tai įvairi šalis, kurioje yra daugybė lankytinų vietų.\nPaskauskite kad skaityti toliau.",
+      url: "https://halijas420.wixsite.com/my-site/post/perfect-colors-for-the-summer-season",
+      opacity: "1"
+    },
+    "6": {
+      lat: "33.7917",
+      lng: "-5.0926",
+      name: "Marokas",
+      color: "red",
+      description: "Marokas turi įvairią kultūrinę įtaką. Nuo arabų ir berberų iki daugybės įvairių sluoksnių... Paskauskite kad skaityti toliau.",
+      size: "12",
+      url: "https://halijas420.wixsite.com/my-site/post/diy-painting-accessories",
+      opacity: "1"
+    },
+    "7": {
+      lat: "64.9631",
+      lng: "-17",
+      name: "Islandija",
+      size: "12",
+      color: "red",
+      description: "Nedaug kitų pasaulio šalių gali pasigirti stulbinančiu grožiu, kaip Islandijoje, jau nekalbant apie seną ir įvairią kultūrą, tokią kaip Islandija. Paskauskite kad skaityti toliau.",
+      url: "https://halijas420.wixsite.com/my-site/post/islandija",
+      opacity: "1"
+    },
+    "8": {
+      lat: "24",
+      lng: "55",
+      name: "Kataras",
+      color: "red",
+      description: "Istorija, viešbučiai ir svetingumas yra tarsi... Paskauskite kad skaityti toliau.",
+      size: "12",
+      opacity: "1",
+      url: "https://halijas420.wixsite.com/my-site/post/kataras"
     }
   },
   labels: {},
