@@ -8,7 +8,7 @@ var simplemaps_worldmap_mapdata={
     popups: "detect",
     
     //State defaults
-    state_description: "State description",
+    state_description: "Apskrities Apibūdinimas",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "http://simplemaps.com",
@@ -17,7 +17,7 @@ var simplemaps_worldmap_mapdata={
     all_states_zoomable: "no",
     
     //Location defaults
-    location_description: "Location description",
+    location_description: "Vietoves Apibūdinimas",
     location_color: "#FF0067",
     location_opacity: 0.8,
     location_hover_opacity: 1,
